@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+nltk
+tqdm
+matplotlib
+pyyaml
+pycocoevalcap
