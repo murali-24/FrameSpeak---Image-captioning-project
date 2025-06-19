@@ -24,6 +24,10 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+#Folders with data and model checkpoints
+dataset/
+checkpoints/
 MANIFEST
 
 # PyInstaller
@@ -192,3 +196,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+#files for reference or checking
+notes.txt
+changes.txt
+temp.ipynb
