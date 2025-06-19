@@ -28,6 +28,7 @@ share/python-wheels/
 #Folders with data and model checkpoints
 dataset/
 checkpoints/
+extras/
 MANIFEST
 
 # PyInstaller
